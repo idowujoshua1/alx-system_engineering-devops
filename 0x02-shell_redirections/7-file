@@ -1,0 +1,4 @@
+#!/bin/bash
+7-file='*\''"Best School"'\''*?$*****:)'
+echo -e "$content\n" > "$7-file"
+echo "File '$7-file' created with content: $content"
